@@ -1,5 +1,5 @@
 [![MasterHead](https://media-fastly.hackerearth.com/media/hackathon/gyanmatrix-data-engineer-hiring-challenge-1/images/e36199b4-d-Cover_GyanMatrix_Data-Engineer.png)]
-<h1 align="center">Hi 👋, Sachin Rawat</h1>
+<h1 align="center">Hi 👋, I am Sachin Rawat</h1>
 <h3 align="center">A passionate Data Engineer from India(Delhi) with 4 years of experience in data driven solution to increase efficiency of business. Proficient knowledge in Python, SQL,machine learning, data pipeline.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
