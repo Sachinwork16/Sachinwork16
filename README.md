@@ -1,4 +1,4 @@
-[![MasterHead]([https://media-fastly.hackerearth.com/media/hackathon/gyanmatrix-data-engineer-hiring-challenge-1/images/e36199b4-d-Cover_GyanMatrix_Data-Engineer.png](https://img.freepik.com/free-vector/artificial-intelligence-concept-twitch-banner_23-2150389746.jpg?w=1380&t=st=1704487902~exp=1704488502~hmac=5286df4b35766d7c4237725a1be17283298808b2f36c3be75f259da66640b3cd))]
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*ebmDMPXU9xqgwqdob0XbKQ.gif)]
 <h1 align="center">Hi 👋, I am Sachin Rawat</h1>
 <h3 align="center">A passionate Data Engineer from India(Delhi) with 4 years of experience in data driven solution to increase efficiency of business. Proficient knowledge in Python, SQL,machine learning, data pipeline.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
