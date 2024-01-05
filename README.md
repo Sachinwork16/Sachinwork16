@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*ebmDMPXU9xqgwqdob0XbKQ.gif)]
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQE7TrxrCS5GkA/profile-displaybackgroundimage-shrink_350_1400/0/1670079462255?e=1709769600&v=beta&t=wmSze_bduId5S-DJAw6rIilIbIrqVpRFzOWTb5V05yo)]
 <h1 align="center">Hi 👋, I am Sachin Rawat</h1>
 <h3 align="center">A passionate Data Engineer from India(Delhi) with 4 years of experience in data driven solution to increase efficiency of business. Proficient knowledge in Python, SQL,machine learning, data pipeline.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
