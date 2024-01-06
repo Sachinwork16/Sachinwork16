@@ -14,7 +14,7 @@
 * Airflow
 
 
-
+## Learning
 - 🔭 I’m currently working on **Generative AI for CRM Tools**
 
 - 🌱 I’m currently learning **Generative AI**
